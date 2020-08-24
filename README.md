@@ -3,9 +3,9 @@ Trabalho final da disciplina de java no curso de Residência de Software, na ins
 
 INTEGRANTES:
 
-Sandra Carvalho
-Stefany Oliveira
-Nathalia Carvalho
-Nei Damazio
-Bruno Barros
-Lucca Nunes
+Sandra Carvalho,
+Stefany Oliveira,
+Nathalia Carvalho,
+Nei Damazio,
+Bruno Barros,
+Lucca Nunes.
